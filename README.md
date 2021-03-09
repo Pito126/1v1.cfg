@@ -8,4 +8,5 @@ Counter strike Global Offensive config. Have fun with friends
 "exec 1v1"
 
 # Map
-Some (map)[https://steamcommunity.com/sharedfiles/filedetails/?id=1709060015&searchtext=]
+
+Some [map](https://steamcommunity.com/sharedfiles/filedetails/?id=1709060015&searchtext=)
